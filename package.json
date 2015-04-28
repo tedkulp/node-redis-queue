@@ -41,6 +41,6 @@
         "compile-test": "node_modules/.bin/coffee -c -o test test"
     },
     "engines": { "node": ">=0.10.29" },
-    "os": ["win32", "win64", "linux"]
+    "os": ["win32", "win64", "linux", "darwin"]
 }
 
